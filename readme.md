@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/negah/percent.svg?branch=master)](https://travis-ci.org/negah/percent) [![GoDoc](https://godoc.org/github.com/negah/percent?status.svg)](https://godoc.org/github.com/negah/percent) [![Go Report Card](https://goreportcard.com/badge/github.com/negah/percent)](https://goreportcard.com/report/github.com/negah/percent)
 
 Calculate percentage in Golang.
+### [Moved to new home](https://github.com/dariubs/percent)
 
 ## Install
 
